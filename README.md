@@ -21,3 +21,4 @@ sueldo_por_hora: DOUBLE, no nulo.
 La sentencia CREATE DATABASE se utiliza para crear una nueva base de datos en SQL. En este caso, se crea una base de datos llamada "sampledb".
 
 La sentencia CREATE TABLE se utiliza para crear una nueva tabla en la base de datos. En este caso, se crea una tabla llamada "empleados" con las columnas mencionadas anteriormente.
+<p aling="center">It's me <b>SAM</b></p>
