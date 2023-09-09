@@ -6,5 +6,6 @@ CREATE TABLE productos (
     codigo VARCHAR(50) NOT NULL,
     precio DOUBLE NOT NULL,
     cantidad_stock INT NOT NULL,
-    fecha_creacion DATETIME NOT NULL
+    fecha_creacion DATETIME NOT NULL,
+    categoria VARCHAR(100) NOT NULL
 );
